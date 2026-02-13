@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🎓 Estudiante del grado de *Ingeniería informática* en la **Universidad de La Laguna**.
 
 <!--
 **alu0101665436/alu0101665436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
